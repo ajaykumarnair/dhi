@@ -1,0 +1,12 @@
+baseURL = "https://dhiresearch.com/"
+languageCode = "en-us"
+title = "Dhi Research"
+theme = "congo"
+
+[params]
+  # Homepage as a normal Markdown page (ideal for a landing page)
+  homepage.layout = "page"
+
+  # Header logo (file must be under assets/)
+  header.logo = "images/dhi.jpg"
+  header.showTitle = false
