@@ -8,7 +8,6 @@ theme = "congo"
   homepage.layout = "page"
   header.logo = "images/dhi.jpg"
 
-  # Hide the search and menu toggle since you want no nav links
   header.showMenu = false
   header.showSearch = false
   header.showTitle = false
@@ -19,7 +18,7 @@ theme = "congo"
   showHeadingAnchors = false
 
 [markup.goldmark.renderer]
-  # Crucial: This allows us to use <div> tags for the side-by-side layout
+  # Crucial: This allows using <div> tags for the side-by-side layout
   unsafe = true
 
 
