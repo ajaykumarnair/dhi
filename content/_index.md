@@ -5,12 +5,6 @@ description: "Research and advisory for consciousness and well-being."
 
 <div class="flex flex-col md:flex-row items-start gap-12 mt-10">
 
-<div class="w-32 md:w-40 flex-shrink-0">
-
-<img src="/images/dhi.jpg" alt="Dhi Research" class="rounded-lg shadow-sm">
-
-</div>
-
 <div class="flex-grow">
 
 <span class="text-xl font-medium text-neutral-700 dark:text-neutral-300">Research and advisory.</span>
