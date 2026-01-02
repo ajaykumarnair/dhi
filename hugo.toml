@@ -10,7 +10,6 @@ theme = "congo"
   header.logo = "images/dhi.jpg"
 
   # Hide the search and menu toggle since you want no nav links
-  header.showLogo = false 
   header.showMenu = false
   header.showSearch = false
 
