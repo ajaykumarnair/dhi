@@ -6,20 +6,20 @@ theme = "congo"
 [params]
   # This hides the default homepage profile layout
   homepage.layout = "page"
-  
-  # Header settings
   header.showTitle = false
   header.logo = "images/dhi.jpg"
-  
+
   # Hide the search and menu toggle since you want no nav links
+  header.showLogo = false 
   header.showMenu = false
   header.showSearch = false
+
+[params.article]
+  # This removes the clickable '#' links next to headers
+  showHeadingAnchors = false
 
 [markup.goldmark.renderer]
   # Crucial: This allows us to use <div> tags for the side-by-side layout
   unsafe = true
 
-[params.article]
-  # This removes the clickable '#' links next to headers
-  showHeadingAnchors = false
-  
+
