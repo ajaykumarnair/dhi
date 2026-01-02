@@ -6,12 +6,13 @@ theme = "congo"
 [params]
   # This hides the default homepage profile layout
   homepage.layout = "page"
-  header.showTitle = false
   header.logo = "images/dhi.jpg"
 
   # Hide the search and menu toggle since you want no nav links
   header.showMenu = false
   header.showSearch = false
+  header.showTitle = false
+  header.showLogo = false
 
 [params.article]
   # This removes the clickable '#' links next to headers
