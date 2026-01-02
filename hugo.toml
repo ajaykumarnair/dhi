@@ -1,12 +1,25 @@
 baseURL = "https://dhiresearch.com/"
 languageCode = "en-us"
-title = "Dhi Research"
+title = "Dhi: Research"
 theme = "congo"
 
 [params]
-  # Homepage as a normal Markdown page (ideal for a landing page)
+  # This hides the default homepage profile layout
   homepage.layout = "page"
-
-  # Header logo (file must be under assets/)
-  header.logo = "images/dhi.jpg"
+  
+  # Header settings
   header.showTitle = false
+  header.logo = "images/dhi.jpg"
+  
+  # Hide the search and menu toggle since you want no nav links
+  header.showMenu = false
+  header.showSearch = false
+
+[markup.goldmark.renderer]
+  # Crucial: This allows us to use <div> tags for the side-by-side layout
+  unsafe = true
+
+[params.article]
+  # This removes the clickable '#' links next to headers
+  showHeadingAnchors = false
+  
