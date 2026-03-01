@@ -3,9 +3,7 @@ date = '2026-01-02T13:52:20+05:30'
 title = 'About'
 +++
 
-Dhi (or Dhi:) has many meanings related to consciousness and wellbeing. 
-It is related to buddhi (a discriminating intellect), dhyana (deep contemplation), and samadhi (mental absorption). 
-In essence, Dhi reflects deep, reflective intelligence: the faculty of thoughtful, meditative insight and wise discernment.
+Dhi (or Dhī) evokes meanings connected to consciousness and wellbeing. It is related to wise discernment (buddhi), deep contemplation (dhyāna), and absorbed clarity (samādhi). At its core, dhi points to contemplative intelligence: grounded insight and practical discernment.
 
-Dhi research aims to leverage insights from modern neuroscience and ancient philosophy to consider ways of facilitating wellbeing in all stages of life, for the individual and for society at large.
+Dhi Research integrates modern neuroscience with philosophical and contemplative traditions to develop and apply insights that support wellbeing across the lifespan, for the individual and for society at large.
  
